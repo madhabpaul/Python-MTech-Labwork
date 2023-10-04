@@ -1,6 +1,6 @@
 # Python
 ## List of Python builtin functions
-| Function | Description |
+|Function | Description |
 |-----------|:--------------------------------------------------------------------|
 |abs()|		Returns the absolute value of a number 
 |all()|		Returns True if all items in an iterable object are true
